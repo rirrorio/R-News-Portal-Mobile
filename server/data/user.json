@@ -1,0 +1,93 @@
+[
+  {
+
+    "username":"cludwig0",
+    "email": "cludwig0@qq.com",
+    "password": "IcM9BtW",
+    "role": "staff",
+    "phoneNumber" : "123456",
+    "address": "new york"
+    
+
+  },
+  {
+    "username":"sduns",
+    "email": "sdunsleve1@gmpg.org",
+    "password": "l8p6D2RLI4j",
+    "role": "staff",
+    "phoneNumber" : "123456",
+    "address": "new york"
+    
+  },
+  {
+    "username": "zkacheller" ,
+    "email": "zkacheller2@washington.edu",
+    "password": "BP47t8t",
+    "role": "admin",
+    "phoneNumber" : "123456",
+    "address": "new york"
+    
+  },
+  {
+    "username": "tperroni",
+    "email": "tperroni3@examiner.com",
+    "password": "i4HDCTDp7pS",
+    "role": "admin",
+    "phoneNumber" : "123456",
+    "address": "new york"
+    
+  },
+  {
+    "username":"randerbrugge",
+    "email": "randerbrugge4@over-blog.com",
+    "password": "La88gesA",
+    "role": "staff",
+    "phoneNumber" : "123456",
+    "address": "new york"
+    
+  },
+  {
+    "username":"vgillogley",
+    "email": "vgillogley5@apple.com",
+    "password": "Or1VBhVRX93",
+    "role": "staff",
+    "phoneNumber" : "123456",
+    "address": "new york"
+    
+  },
+  {
+    "username":"dbunston6",
+    "email": "dbunston6@arizona.edu",
+    "password": "sbofEM",
+    "role": "admin",
+    "phoneNumber" : "123456",
+    "address": "new york"
+    
+  },
+  {
+    "username":"bstopford",
+    "email": "bstopford7@google.co.jp",
+    "password": "nhkSSS3",
+    "role": "admin",
+    "phoneNumber" : "123456",
+    "address": "new york"
+    
+  },
+  { "username":"bdonisi8",
+    "email": "bdonisi8@mapy.cz",
+   "password": "82PUb8",
+    "role": "staff",
+    "phoneNumber" : "123456",
+    "address": "new york" 
+    
+  },
+  {
+    "username":"fzaniolini9",
+    "email": "fzaniolini9@businessinsider.com",
+    "password": "4DRc0TFShvef",
+    "role": "staff",
+    "phoneNumber" : "123456",
+    "address": "new york"
+    
+  }
+]

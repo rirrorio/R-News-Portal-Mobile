@@ -1,0 +1,82 @@
+[
+  {
+    "email": "cludwig0@qq.com",
+    "password": "IcM9BtW",
+    "role": "staff",
+    "phoneNumber" : "123456",
+    "address": "new york"
+    
+
+  },
+  {
+    "email": "sdunsleve1@gmpg.org",
+    "password": "l8p6D2RLI4j",
+    "role": "staff",
+    "phoneNumber" : "123456",
+    "address": "new york"
+    
+  },
+  {
+    "email": "zkacheller2@washington.edu",
+    "password": "BP47t8t",
+    "role": "admin",
+    "phoneNumber" : "123456",
+    "address": "new york"
+    
+  },
+  {
+    "email": "tperroni3@examiner.com",
+    "password": "i4HDCTDp7pS",
+    "role": "admin",
+    "phoneNumber" : "123456",
+    "address": "new york"
+    
+  },
+  {
+    "email": "randerbrugge4@over-blog.com",
+    "password": "La88gesA",
+    "role": "staff",
+    "phoneNumber" : "123456",
+    "address": "new york"
+    
+  },
+  {
+    "email": "vgillogley5@apple.com",
+    "password": "Or1VBhVRX93",
+    "role": "staff",
+    "phoneNumber" : "123456",
+    "address": "new york"
+    
+  },
+  {
+    "email": "dbunston6@arizona.edu",
+    "password": "sbofEM",
+    "role": "admin",
+    "phoneNumber" : "123456",
+    "address": "new york"
+    
+  },
+  {
+    "email": "bstopford7@google.co.jp",
+    "password": "nhkSSS3",
+    "role": "admin",
+    "phoneNumber" : "123456",
+    "address": "new york"
+    
+  },
+  { "email": "bdonisi8@mapy.cz",
+   "password": "82PUb8",
+    "role": "staff",
+    "phoneNumber" : "123456",
+    "address": "new york" 
+    
+  },
+  {
+    "email": "fzaniolini9@businessinsider.com",
+    "password": "4DRc0TFShvef",
+    "role": "staff",
+    "phoneNumber" : "123456",
+    "address": "new york"
+    
+  }
+]
